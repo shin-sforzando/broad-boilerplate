@@ -97,4 +97,3 @@ See [LICENSE](LICENSE).
 ### Contributors
 
 - [Shin'ichiro Suzuki](https://github.com/shin-sforzando)
-- [Tomoya Kashimada](https://github.com/tomoya-sforzando)
