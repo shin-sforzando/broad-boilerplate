@@ -1,4 +1,4 @@
-name: Bump version
+name: Bump Version
 
 on:
   workflow_dispatch:
@@ -22,3 +22,4 @@ jobs:
         uses: commitizen-tools/commitizen-action@master
         with:
           github_token: ${{ secrets.TOKEN4COMMITIZEN_CI }}
+          branch: main
