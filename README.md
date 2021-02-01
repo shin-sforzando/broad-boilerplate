@@ -11,7 +11,7 @@
 <!-- Synopsis is here! -->
 GitHub Template Repository for General Use.
 
-- [Requirements](#requirements)
+- [Prerequisites](#prerequisites)
 - [How to](#how-to)
   - [Setup](#setup)
   - [Develop](#develop)
@@ -26,7 +26,7 @@ GitHub Template Repository for General Use.
   - [LICENSE](#license)
   - [Contributors](#contributors)
 
-## Requirements
+## Prerequisites
 
 - A (Version x.y.z or higher)
   - B
