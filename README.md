@@ -13,6 +13,7 @@ GitHub Template Repository for General Use.
 
 - [Prerequisites](#prerequisites)
 - [How to](#how-to)
+  - [Help](#help)
   - [Setup](#setup)
   - [Develop](#develop)
   - [Run](#run)
@@ -35,6 +36,12 @@ GitHub Template Repository for General Use.
   - E
 
 ## How to
+
+### Help
+
+```shell
+make help
+```
 
 ### Setup
 
